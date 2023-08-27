@@ -5,8 +5,8 @@
 3. Total running amount paid
 4. Total number of films rented of most rented category: Sports
 5. Total number of films rented of least rented category: Music
-6. Total number of customers who've made payments
-7. Total number of active customers who've made payments
+6. Total number of customers who've made payments (not distinct)
+7. Total number of active customers who've made payments (not distinct)
 8. Percentage of active customers
 9. Total distinct cities of customers who made payments
 
